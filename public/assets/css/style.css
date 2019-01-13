@@ -1,0 +1,36 @@
+body {
+
+  
+  background-image: url(dinner.jpg);
+
+}
+.create-update-form {
+  
+  background: aqua;
+  font-size: 70px;
+  margin: 25px;
+  padding: 5px;
+}
+
+.form-group {
+  
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+li {
+  color:green;
+  font-size: 30px;
+  padding: 5px;
+  margin: 5px;
+ 
+}
+
+.label {
+  font-weight: bold;
+}
+
+
+
+
+
